@@ -1,3 +1,3 @@
 # roberts-worshop
-neuesRomote, da 
+neuesRomote, da:
 error: remote origin already exists
